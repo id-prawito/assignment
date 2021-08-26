@@ -8,4 +8,4 @@ Assignment JS is assignment about Javascript in IT Training Frontend Perbankan K
 
 ## Run
 
-To preview the result of assignment JS, you run in terminal `node homeworkJS`.
+To preview the result of assignment JS, you can run in terminal `node homeworkJS`.
